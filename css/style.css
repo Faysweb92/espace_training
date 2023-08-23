@@ -1,0 +1,38 @@
+
+*{
+padding: 0;
+margin:0;
+
+}
+
+
+h1{
+margin: auto;
+
+}
+
+
+#centre{
+ width:70%;   
+margin: auto;
+
+
+}
+
+.titre{
+height: 50px;
+width: 50%;
+margin: auto;
+border-style:double
+
+
+}
+
+#connect{
+display: flex;
+justify-content: flex-end;
+text-decoration: none;
+color: blue;
+
+
+}
